@@ -1,4 +1,4 @@
-package com.example.testtask.presentation.theme
+package com.example.testtask.presentation.app.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
